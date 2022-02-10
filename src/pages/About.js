@@ -12,7 +12,7 @@ const About = () => {
         possibly use in one single Project. This project fetches the api and
         show us the content i.e information about Cocktails. We can search Any
         Cocktail using the search bar provided as long as name matches the
-        Coctails name.
+        Cocktails name.
       </p>
     </section>
   )
